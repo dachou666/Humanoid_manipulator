@@ -1,0 +1,2 @@
+# Humanoid_manipulator
+通过手指之间的弯曲控制机械手的手指弯曲
